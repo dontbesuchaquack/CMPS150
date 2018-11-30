@@ -1,0 +1,21 @@
+S
+Painting
+15
+P
+Batteries
+13
+P
+Glue
+3
+S
+Electrical
+75
+S
+Car Washing
+10
+P
+Filters
+5
+X
+X
+0

@@ -1,0 +1,9 @@
+P
+Glue
+3
+S
+Sanding
+10
+X
+X
+0
